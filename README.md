@@ -1,4 +1,4 @@
-# Project Title
+# Into Kickstarter Data
 
 Kickstarter Data Analysis - An insight into trends and patterns of Kickstarter Campaigns
 
